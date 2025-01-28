@@ -1,0 +1,256 @@
+{
+    "total": [
+        {
+            "id": "1797773850",
+            "count": 0
+        },
+        {
+            "id": "100086225603286",
+            "count": 1
+        },
+        {
+            "id": "61553310515432",
+            "count": 0
+        },
+        {
+            "id": "100000076699141",
+            "count": 0
+        },
+        {
+            "id": "100001457548119",
+            "count": 0
+        },
+        {
+            "id": "100077366272669",
+            "count": 5
+        },
+        {
+            "id": "100085073240621",
+            "count": 0
+        },
+        {
+            "id": "100073420669646",
+            "count": 0
+        },
+        {
+            "id": "100001163475670",
+            "count": 3
+        },
+        {
+            "id": "100012464629197",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "1797773850",
+            "count": 0,
+            "name": "Ky Phan"
+        },
+        {
+            "id": "100086225603286",
+            "count": 0,
+            "name": "Ky Phan"
+        },
+        {
+            "id": "61553310515432",
+            "count": 0,
+            "name": "Ly Thúy"
+        },
+        {
+            "id": "100000076699141",
+            "count": 0,
+            "name": "Bot GojoBeta"
+        },
+        {
+            "id": "100001457548119",
+            "count": 0,
+            "name": "Kamil Tušl"
+        },
+        {
+            "id": "100077366272669",
+            "count": 0,
+            "name": "Phạm Thanh Tùng"
+        },
+        {
+            "id": "100085073240621",
+            "count": 0,
+            "name": "Dang Gia Khanh"
+        },
+        {
+            "id": "100073420669646",
+            "count": 0,
+            "name": "ゆ﹕ phglinhh ꜝ　zᶻ︒"
+        },
+        {
+            "id": "100001163475670",
+            "count": 0,
+            "name": "Bot Gojo"
+        },
+        {
+            "id": "100012464629197",
+            "count": 0,
+            "name": "Anetta Gilmanová"
+        }
+    ],
+    "day": [
+        {
+            "id": "1797773850",
+            "count": 0,
+            "name": "Ky Phan"
+        },
+        {
+            "id": "100086225603286",
+            "count": 0,
+            "name": "Ky Phan"
+        },
+        {
+            "id": "61553310515432",
+            "count": 0,
+            "name": "Ly Thúy"
+        },
+        {
+            "id": "100000076699141",
+            "count": 0,
+            "name": "Bot GojoBeta"
+        },
+        {
+            "id": "100001457548119",
+            "count": 0,
+            "name": "Kamil Tušl"
+        },
+        {
+            "id": "100077366272669",
+            "count": 0,
+            "name": "Phạm Thanh Tùng"
+        },
+        {
+            "id": "100085073240621",
+            "count": 0,
+            "name": "Dang Gia Khanh"
+        },
+        {
+            "id": "100073420669646",
+            "count": 0,
+            "name": "ゆ﹕ phglinhh ꜝ　zᶻ︒"
+        },
+        {
+            "id": "100001163475670",
+            "count": 0,
+            "name": "Bot Gojo"
+        },
+        {
+            "id": "100012464629197",
+            "count": 0,
+            "name": "Anetta Gilmanová"
+        }
+    ],
+    "time": 0,
+    "last": {
+        "time": 5,
+        "day": [
+            {
+                "id": "1797773850",
+                "count": 0,
+                "name": "Ky Phan"
+            },
+            {
+                "id": "100086225603286",
+                "count": 0,
+                "name": "Ky Phan"
+            },
+            {
+                "id": "61553310515432",
+                "count": 0,
+                "name": "Ly Thúy"
+            },
+            {
+                "id": "100000076699141",
+                "count": 0,
+                "name": "Bot GojoBeta"
+            },
+            {
+                "id": "100001457548119",
+                "count": 0,
+                "name": "Kamil Tušl"
+            },
+            {
+                "id": "100077366272669",
+                "count": 0,
+                "name": "Phạm Thanh Tùng"
+            },
+            {
+                "id": "100085073240621",
+                "count": 0,
+                "name": "Dang Gia Khanh"
+            },
+            {
+                "id": "100073420669646",
+                "count": 0,
+                "name": "ゆ﹕ phglinhh ꜝ　zᶻ︒"
+            },
+            {
+                "id": "100001163475670",
+                "count": 0,
+                "name": "Bot Gojo"
+            },
+            {
+                "id": "100012464629197",
+                "count": 0,
+                "name": "Anetta Gilmanová"
+            }
+        ],
+        "week": [
+            {
+                "id": "1797773850",
+                "count": 0,
+                "name": "Ky Phan"
+            },
+            {
+                "id": "100086225603286",
+                "count": 1,
+                "name": "Ky Phan"
+            },
+            {
+                "id": "61553310515432",
+                "count": 0,
+                "name": "Ly Thúy"
+            },
+            {
+                "id": "100000076699141",
+                "count": 0,
+                "name": "Bot GojoBeta"
+            },
+            {
+                "id": "100001457548119",
+                "count": 0,
+                "name": "Kamil Tušl"
+            },
+            {
+                "id": "100077366272669",
+                "count": 5,
+                "name": "Phạm Thanh Tùng"
+            },
+            {
+                "id": "100085073240621",
+                "count": 0,
+                "name": "Dang Gia Khanh"
+            },
+            {
+                "id": "100073420669646",
+                "count": 0,
+                "name": "ゆ﹕ phglinhh ꜝ　zᶻ︒"
+            },
+            {
+                "id": "100001163475670",
+                "count": 3,
+                "name": "Bot Gojo"
+            },
+            {
+                "id": "100012464629197",
+                "count": 0,
+                "name": "Anetta Gilmanová"
+            }
+        ]
+    }
+}
